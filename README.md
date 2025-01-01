@@ -61,7 +61,7 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 2. 🛠️ **Imputasi nilai hilang:**
    - Rata-rata untuk kolom numerik.
    - Modus untuk kolom kategorikal.
-3. 📅 **Konversi kolom tanggal** (jika ada).
+3. 📅 **Konversi kolom tanggal**.
 4. 🗑️ **Hapus duplikasi** untuk memastikan setiap data unik.
 
 ---
