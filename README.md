@@ -75,13 +75,16 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 - #### Rata-rata ADR Berdasarkan Tipe Kamar
 | Tipe Kamar | Rata-rata ADR |
 |------------|---------------|
-| A          | 120.50        |
-| B          | 110.20        |
-| C          | 105.30        |
-| D          | 98.00         |
-| E          | 92.50         |
-| F          | 87.40         |
-| G          | 80.00         |
+| A          | 57.64         |
+| B          | 76.00         |
+| C          | 63.73         |
+| D          | 77.47         |
+| E          | 61.69         |
+| F          | 69.83         |
+| G          | 53.80         |
+| H          | 235.00        |
+| I          | 0.00          |  
+
 
 ### 🌍 Analisis Berdasarkan Negara
 - Menemukan 10 negara dengan kontribusi ADR tertinggi.
