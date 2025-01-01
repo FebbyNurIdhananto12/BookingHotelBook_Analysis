@@ -72,8 +72,7 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 - Rata-rata ADR dihitung berdasarkan tipe kamar.
 - Ditampilkan menggunakan boxplot untuk visualisasi distribusi.
 - ![Gambar1](https://github.com/FebbyNurIdhananto12/BookingHotelBook_Analysis/blob/main/Gambar/AVG%20dan%20ROOM.png)
-- 
-#### Rata-rata ADR Berdasarkan Tipe Kamar
+- Rata-rata ADR Berdasarkan Tipe Kamar
 | Tipe Kamar | Rata-rata ADR |
 |------------|---------------|
 | A          | 120.50        |
