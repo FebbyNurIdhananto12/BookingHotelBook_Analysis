@@ -2,7 +2,7 @@
 
 ## 👥 Anggota Kelompok
 1. Zulvikar Harist (202110370311033)
-2. Feby Nur Idhananto (202110370311043)
+2. Febby Nur Idhananto (202110370311043)
 
 ---
 
@@ -17,6 +17,12 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 - **Dataset** mencakup atribut seperti:
   - `adr` (tarif harian rata-rata)
   - `assigned_room_type` (tipe kamar yang dialokasikan)
+  - `previous_bookings_not_canceled` (pemesanan sebelumnya yang tidak dibatalkan)
+  - `reserved_room_type` (tipe kamar yang dipesan)
+  - `booking_changes` (perubahan pemesanan)
+  - `deposit_type` (jenis deposit)
+  - `agent` (agen pemesanan)
+  - dll.
 - **Metodologi:**
   - 🔄 Pembersihan data untuk mengatasi nilai hilang, duplikasi, dan memastikan format konsisten.
   - 📈 Analisis eksploratif (EDA) untuk memahami distribusi ADR berdasarkan tipe kamar.
@@ -65,22 +71,24 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 ### 🔍 Distribusi ADR Berdasarkan Tipe Kamar
 - Rata-rata ADR dihitung berdasarkan tipe kamar.
 - Ditampilkan menggunakan boxplot untuk visualisasi distribusi.
+- ![Gambar1](https://github.com/FebbyNurIdhananto12/BookingHotelBook_Analysis/blob/main/Gambar/AVG%20dan%20ROOM.png)
+- 
+#### Rata-rata ADR Berdasarkan Tipe Kamar
+| Tipe Kamar | Rata-rata ADR |
+|------------|---------------|
+| A          | 120.50        |
+| B          | 110.20        |
+| C          | 105.30        |
+| D          | 98.00         |
+| E          | 92.50         |
+| F          | 87.40         |
+| G          | 80.00         |
 
 ### 🌍 Analisis Berdasarkan Negara
 - Menemukan 10 negara dengan kontribusi ADR tertinggi.
 - Visualisasi menggunakan bar chart.
-
----
-
-## 📈 Hasil Analisis
-1. **Rata-rata ADR per tipe kamar:**
-   - Ditampilkan dalam bentuk bar chart dengan skema warna menarik.
-2. **Top 10 negara dengan ADR tertinggi:**
-   - Ditampilkan dalam bentuk bar chart untuk wawasan geografis.
-
-### 📋 Tabel Hasil Analisis
-
-#### Top 10 Negara dengan ADR Tertinggi
+- ![Gambar2](https://github.com/FebbyNurIdhananto12/BookingHotelBook_Analysis/blob/main/Gambar/AVG%20dan%20country.png)
+- #### Top 10 Negara dengan ADR Tertinggi
 | No | Negara | Rata-rata ADR |
 |----|--------|---------------|
 | 1  | CHN    | 129.00        |
@@ -94,23 +102,6 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 | 9  | DEU    | 60.87         |
 | 10 | FRA    | 59.10         |
 
-#### Rata-rata ADR Berdasarkan Tipe Kamar
-| Tipe Kamar | Rata-rata ADR |
-|------------|---------------|
-| A          | 120.50        |
-| B          | 110.20        |
-| C          | 105.30        |
-| D          | 98.00         |
-| E          | 92.50         |
-| F          | 87.40         |
-| G          | 80.00         |
-
----
-
-## 📊 Visualisasi Data
-- Distribusi ADR menggunakan boxplot.
-- Korelasi ADR dan tipe kamar dengan scatter plot.
-
 ---
 
 ## 🚀 Kesimpulan
@@ -122,4 +113,4 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 
 ---
 
-💡🌟
+## Salam Hangat dari si Analiysis Zul and Bruh💡🌟
