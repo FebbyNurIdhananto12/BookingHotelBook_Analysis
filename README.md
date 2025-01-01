@@ -1,5 +1,4 @@
-# BookingHotelBook_Analysis
-# 📚 Studi Kasus: Hotel Booking
+# 📚 Studi Kasus: Booking Hotel Book
 
 ## 👥 Anggota Kelompok
 1. Zulvikar Harist (202110370311033)
@@ -31,7 +30,7 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
   - Mengonversi tipe kamar menjadi variabel numerik dan menghitung korelasi dengan ADR.
   - Korelasi ini membantu mengidentifikasi seberapa kuat hubungan antara tipe kamar dan ADR.
 
-### 🎯 4. Bagaimana Analisis Membantu Pengelola Hotel & Konsumen
+### 🎯 4. Analisis Membantu Pengelola Hotel & Konsumen
 - **Manfaat bagi Pengelola Hotel:**
   - Memahami tipe kamar mana yang menghasilkan pendapatan tertinggi.
   - Menentukan strategi harga berbasis data untuk memaksimalkan ADR.
@@ -61,15 +60,11 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
 
 ---
 
-## 📊 Analisis Data
+## 📊 Hasil Analisis Data
 
 ### 🔍 Distribusi ADR Berdasarkan Tipe Kamar
 - Rata-rata ADR dihitung berdasarkan tipe kamar.
 - Ditampilkan menggunakan boxplot untuk visualisasi distribusi.
-
-### 🔗 Korelasi ADR dan Tipe Kamar
-- Tipe kamar dikonversi menjadi variabel numerik.
-- Korelasi dihitung untuk memahami kekuatan hubungan antara kedua variabel.
 
 ### 🌍 Analisis Berdasarkan Negara
 - Menemukan 10 negara dengan kontribusi ADR tertinggi.
