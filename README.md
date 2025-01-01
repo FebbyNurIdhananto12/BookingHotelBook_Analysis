@@ -62,7 +62,7 @@ Industri perhotelan menghadapi tantangan dalam memaksimalkan pendapatan dengan m
    - Rata-rata untuk kolom numerik.
    - Modus untuk kolom kategorikal.
 3. 📅 **Konversi kolom tanggal**.
-4. 🗑️ **Hapus duplikasi** untuk memastikan setiap data unik.
+4. 🗑️ **Hapus duplikasi** dengan memastikan setiap data unik.
 
 ---
 
